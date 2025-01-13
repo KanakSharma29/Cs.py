@@ -5,6 +5,6 @@ str = input("Enter any string:")
 str_reverse = str[::-1]
 
 if str == str_reverse:
-    print("Palindrome")
+    print("Given String is Palindrome")
 else:
-    print("Not a Plaindrome!")
+    print("Not a Palindrome!")
